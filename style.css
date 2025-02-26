@@ -170,7 +170,6 @@ article {
 .polza {
 	position: relative;
 	left: 30%;
-	top: 101px;
 	z-index: 2;
 }
 .polza2 {
@@ -183,7 +182,7 @@ article {
 	width: 300px;
 	position: relative;
 	left: 750px;
-	bottom: 400px
+	bottom: 500px
 }
 .plus {
 	height: 1200px
